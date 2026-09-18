@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Kritvi 👋
 
-<!--
-**kalanikritvi-hash/kalanikritvi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Econ student at [Columbia / Barnard], class of 2029. I like markets,
+debate, and building things people on campus will actually use.
 
-Here are some ideas to get you started:
+**What I'm building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Butler Bets](https://butler-bets.vercel.app)**: a play-money
+  prediction market for Columbia and Barnard. Trade YES/NO on campus
+  questions with Crowns, and the price is what campus believes. Built
+  with Maitree Mody on Next.js, TypeScript and Supabase, with an LMSR
+  market maker. I worked mostly on leagues and backend security.
+  Launching fall 2026.
+- **[Prevya](https://prevya-compass.lovable.app/)**: an AI companion
+  that helps women with chronic conditions like PCOS and autoimmune
+  disease prepare for doctor's appointments. Built in one day at
+  VibeHack, NY Tech Week 2026.
+- **Financial Bias Profiler**: a React app that profiles your money
+  biases and gives tailored advice.
+
+**Away from the keyboard**
+
+Co-founder of Utopia, a non-profit teaching debate in government
+schools near Kota, India, since 2020.
+
+[LinkedIn](https://www.linkedin.com/in/kritvi-kalani-198141380/)
