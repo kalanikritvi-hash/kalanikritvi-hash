@@ -11,10 +11,10 @@ debate, and building things people on campus will actually use.
   with Maitree Mody on Next.js, TypeScript and Supabase, with an LMSR
   market maker. I worked mostly on leagues and backend security.
   Launching fall 2026.
-- **[Prevya](https://prevya-compass.lovable.app/)**: an AI companion
-  that helps women with chronic conditions like PCOS and autoimmune
-  disease prepare for doctor's appointments. Built in one day at
-  VibeHack, NY Tech Week 2026.
+- **[Prevya](https://prevya-compass.lovable.app/)**: a hackathon
+  prototype of an AI companion for women with chronic conditions like
+  PCOS and endometriosis, designed to help them prepare for doctor's
+  appointments. Prototyped in one day at VibeHack, NY Tech Week 2026.
 - **Financial Bias Profiler**: a React app that profiles your money
   biases and gives tailored advice.
 
