@@ -1,6 +1,6 @@
 ### Hi, I'm Kritvi 👋
 
-Econ student at [Columbia / Barnard], class of 2029. I like markets,
+Econ student at Barnard, class of 2029. I like markets,
 debate, and building things people on campus will actually use.
 
 **What I'm building**
